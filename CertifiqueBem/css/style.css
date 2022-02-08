@@ -1,0 +1,47 @@
+.topo {
+  background-color: #07304c;
+  font-weight: bold;
+}
+
+.slider {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.main {
+  background-color: #07304c;
+  text-align: justify;
+  text-justify: inter-word;
+  font-size: 20px;
+  font-weight: bold;
+  color: aliceblue;
+}
+
+.main h1 {
+  font-size: 60px;
+  font-weight: bold;
+  color: aliceblue;
+}
+
+#section-certificados h2 {
+  font-weight: bold;
+  color: #07304c;
+}
+
+#section-certificados hr {
+  border: 4px solid #52bb80;
+  width: 100px;
+}
+
+footer {
+  background-color: #07304c;
+}
+
+.modal-content a {
+  color: #52bb80;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+@media (max-width: 384px) {
+}
