@@ -1,7 +1,7 @@
 # Certifique_Bem
 
-Re-design feito para a marca de certificados online Certifique Bem.
+Landing page desenvolvida para a empresa de certificados online Certifique Bem.
 
 -------------------------------------------------------------------------
 
-Na busca por simplicidade e boa diagramação das informações, o re-design foi pensado para atender as nescessidades minimalistas da marca.
+O design proposto está focado na tendência do uso de sites single page.
