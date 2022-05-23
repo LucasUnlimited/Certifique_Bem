@@ -8,4 +8,4 @@ O design proposto está focado na tendência do uso de sites single page.
 
 -------------------------------------------------------------------------
 
-</strong>Bootstrap 4</strong>
+<strong>Bootstrap 4</strong>
